@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Eddie Grau"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Eddie"
+description              : "Blogs about security and other musings"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eddiegrau/eddiegrau.github.io"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Eddie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
